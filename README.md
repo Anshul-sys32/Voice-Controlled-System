@@ -1,0 +1,2 @@
+The project aims to develop a Voice-Controlled Desktop Automation System that enables users to interact with their computer using natural voice commands. The system focuses on providing a fast, offline, and customizable alternative to traditional input methods such as keyboard and mouse.
+This project is particularly useful for improving accessibility, enhancing productivity, and enabling hands-free computing. It also serves as a foundation for further advancements such as AI-based task learning, contextual understanding, and smart workflow automation.
